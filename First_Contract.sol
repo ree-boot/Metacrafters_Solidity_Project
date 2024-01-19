@@ -21,8 +21,8 @@ pragma solidity 0.8.18;
 contract MyToken {
 
     // public variables here
-    string public tk_name = "META";
-    string public tk_abbr = "MTA";
+    string public tk_name = "KITTY COIN";
+    string public tk_abbr = "MEOW";
     uint public total = 0;
 
     // mapping variable here
